@@ -1,0 +1,28 @@
+{
+  "name": "saoko",
+  "version": "1.0.3",
+  "description": "Proyecto de Saoko de la ch18",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickcva/saoko.git"
+  },
+  "keywords": [
+    "saoko",
+    "ch18",
+    "bootstrap",
+    "axios"
+  ],
+  "author": "Erick Cepeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickcva/saoko/issues"
+  },
+  "homepage": "https://github.com/erickcva/saoko#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
